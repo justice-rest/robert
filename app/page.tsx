@@ -172,7 +172,7 @@ export default function Home() {
 					<>
 						<p>
 							A medium-rare roast by{" "}
-							<A href="https://groq.com">BurnedByHer</A>{" "}
+							<A href="https://burnedbyher.xyz">BurnedByHer</A>{" "}
 							.
 						</p>
 
